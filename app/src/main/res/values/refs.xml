@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="gitar" />
+    <drawable name="piano" />
+    <drawable name="keyboard" />
+    <drawable name="biola" />
+    <drawable name="drum" />
+    <drawable name="seruling" />
+    <drawable name="angklung" />
+    <drawable name="sasando" />
+    <drawable name="saxsofon" />
+    <drawable name="gamelan" />
+    <drawable name="nasigoreng" />
+</resources>
